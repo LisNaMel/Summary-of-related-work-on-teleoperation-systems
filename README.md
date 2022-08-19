@@ -66,6 +66,7 @@ An interesting alternative to robot programming which is simpler, faster, and mo
 - Augmented Reality assisted robot programming system (ARRPS) that the authors proposed will allow users with little robot programming knowledge to program tasks for a serial robot.
 3. Method
 - Implement ARRPS as shown:
+
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0736584519300250-gr4.jpg)
 - Using an HMD and a handheld pointer for robot motion planning.
 - Using a Kinect2 sensor to track and reconstruct physical objects.
